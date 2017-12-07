@@ -1,5 +1,11 @@
+
+html {
+  background-color: Black;
+  text-align: center;
+  font-family: Verdana
+}
+
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: White;
@@ -7,14 +13,28 @@ h1 {
 }
 
 h3 {
-  font-family: Verdana;
   font-size: 16px;
   color: Aquamarine;
   text-align: center;
   font-weight: normal;
 }
 
-html {
-  background-color: Black;
+h3 a {
+color: Aquamarine;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 42px;
+  color: White;
   text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+.copyright {
+  text-align: right;
 }
